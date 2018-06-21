@@ -5,7 +5,8 @@ A Jupyter extension for compiling and displaying images described by the [TikZ](
 ## Requirements
 
 - IPython/Jupyter
-- LaTeX (`xelatex`)
+- LaTeX (`xelatex`) 
+	- package `standalone`
 - ImageMagick
 
 ## Installation
